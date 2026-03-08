@@ -6,3 +6,6 @@ the [edge connector](https://www.adafruit.com/product/1865).
 The battery holder is taken from the
 [Color Sensing Music Player](https://learn.adafruit.com/color-sensing-music-player)
 so this is in fact a remix and mashup.
+
+This is meant for both the RFM69 sender (with battery) as well as the
+[receiver](https://github.com/vladak/radio2mqtt) (without battery).
