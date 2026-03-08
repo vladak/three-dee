@@ -7,5 +7,5 @@ The Doubler mount and the battery holder are taken from the
 [Color Sensing Music Player](https://learn.adafruit.com/color-sensing-music-player)
 so this is in fact a remix and mashup.
 
-This is meant for both the RFM69 sender (with battery) as well as the
+This is meant for both sender (with battery) as well as the
 [receiver](https://github.com/vladak/radio2mqtt) (without battery).
