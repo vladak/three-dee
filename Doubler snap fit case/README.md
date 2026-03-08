@@ -16,3 +16,5 @@ The printing should be done using the same parameters as the QtPy case:
   - 10% gyroid infill
   - 60mm/s print speed
   - 60c heated bed
+
+Printed on Prusa MK4S, slicing done in PrusaSlicer.
