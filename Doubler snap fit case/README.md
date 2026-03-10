@@ -17,4 +17,6 @@ The printing should be done using the same parameters as the QtPy case:
   - 60mm/s print speed
   - 60c heated bed
 
+Took me 3 iterations of prints to get the dimensions/tolerances right.
+
 Printed on Prusa MK4S, slicing done in PrusaSlicer.
