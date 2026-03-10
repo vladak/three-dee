@@ -7,7 +7,7 @@ The Doubler mount and the battery holder are taken from the
 [Color Sensing Music Player](https://learn.adafruit.com/color-sensing-music-player)
 so this is in fact a remix and mashup.
 
-This is meant for both sender (with battery) as well as the
+This is meant for both sender (with 2000mAh battery) as well as the
 [receiver](https://github.com/vladak/radio2mqtt) (without battery).
 
 The printing should be done using the same parameters as the QtPy case:
