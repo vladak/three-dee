@@ -11,11 +11,11 @@ This is meant for both sender (with battery) as well as the
 [receiver](https://github.com/vladak/radio2mqtt) (without battery).
 
 The printing should be done using the same parameters as the QtPy case:
-  - PLA filament 220c extruder
+  - PLA filament 220C extruder
   - 0.2 layer height
   - XXX infill
   - 60mm/s print speed
-  - 60c heated bed
+  - 60C heated bed
 
 Took me 3 iterations of prints to get the dimensions/tolerances right.
 
