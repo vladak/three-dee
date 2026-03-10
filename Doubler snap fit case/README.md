@@ -13,7 +13,7 @@ This is meant for both sender (with battery) as well as the
 The printing should be done using the same parameters as the QtPy case:
   - PLA filament 220c extruder
   - 0.2 layer height
-  - 10% gyroid infill
+  - XXX infill
   - 60mm/s print speed
   - 60c heated bed
 
