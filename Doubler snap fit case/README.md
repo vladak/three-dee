@@ -13,10 +13,12 @@ This is meant for both sender (with 2000mAh battery) as well as the
 The printing should be done using the same parameters as the QtPy case:
   - PLA filament 220C extruder
   - 0.2 layer height
-  - XXX infill
+  - grid pattern infill
   - 60mm/s print speed
   - 60C heated bed
 
-Took me 3 iterations of prints to get the dimensions/tolerances right.
+Took me 4 iterations of prints to get the dimensions/tolerances right.
+
+When printing on MK4S, some of the corners of the middle of the case were a bit (like 1 mm) lifted as if distorted/bent by an upward force. So there was a tiny gap between the bottom lid and the middle part of the case. This happened twice on MK4S. When printing with supports in the USB and antenna holes the case seems to be straight. I also tried printing on Prusa Core One (without supports) and there was an interesting effect of the side of the case next to the antenna hole actually moving during printing. It might be interesting to try the print with supports and also a brim to prevent the print from moving.
 
 Printed on Prusa MK4S, slicing done in PrusaSlicer.
