@@ -20,6 +20,8 @@ The printing should be done using similar parameters as the QtPy case:
   - Arachne generator
   - 60mm/s print speed
   - 60C heated bed
+  - perimeter/wall thickness 2
+  - first/last layer thickness: 5 and 4, respectively
   - use supports + brim (for the middle part of the case)
 
 In my case the parameter set was called "0.2 STRUCTURAL".
