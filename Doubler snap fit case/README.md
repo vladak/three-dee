@@ -16,6 +16,7 @@ The printing should be done using the same parameters as the QtPy case:
   - grid pattern infill
   - 60mm/s print speed
   - 60C heated bed
+  - use supports + brim (for the middle part of the case)
 
 Took me 4 iterations of prints to get the dimensions/tolerances right.
 
