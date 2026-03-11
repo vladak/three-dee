@@ -10,6 +10,8 @@ so this is in fact a remix and mashup.
 This is meant for both sender (with 2000mAh battery) as well as the
 [receiver](https://github.com/vladak/radio2mqtt) (without battery).
 
+## Print parameters
+
 The printing should be done using the same parameters as the QtPy case:
   - PLA filament 220C extruder
   - 0.2 layer height
@@ -21,6 +23,15 @@ The printing should be done using the same parameters as the QtPy case:
 Took me 4 iterations of prints to get the dimensions/tolerances right.
 
 Printed on Prusa MK4S, slicing done in PrusaSlicer.
+
+## Assembly/mount
+
+1. Use M2.5 x 6mm screws to attach the Doubler to the bottom of the case.
+2. If battery is used, snap fit the battery using the holder.
+3. Insert any cables (USB and/or STEMMA QT) through the USB hole.
+4. Attach any sensors using nylon screws to the top lid.
+5. Close the top lid.
+6. Attach to a surface using screws with 3 mm diameter.
 
 ## Lessons learned
 
