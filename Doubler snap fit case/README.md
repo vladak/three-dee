@@ -15,12 +15,14 @@ This is meant for both sender (with 2000mAh battery) as well as the
 The printing should be done using similar parameters as the QtPy case:
   - PLA filament 220C extruder
   - 0.2 layer height
-  - grid pattern infill
+  - grid pattern infill 15% density
+  - no ironing
+  - Arachne generator
   - 60mm/s print speed
   - 60C heated bed
   - use supports + brim (for the middle part of the case)
 
-In my case the parameter set was called "0.2 structural".
+In my case the parameter set was called "0.2 STRUCTURAL".
 
 Took me 4 iterations of prints to get the dimensions/tolerances right.
 
@@ -43,6 +45,6 @@ At first I tried to have some space between the battery clip and the rails on th
 
 ### Distortions
 
-When printing on MK4S, some of the corners of the middle of the case were a bit (like 1 mm) lifted as if distorted/bent by an upward force. So there was a tiny gap between the bottom lid and the middle part of the case. This happened twice on MK4S. When printing with supports in the USB and antenna holes the case seems to be straight. I also tried printing on Prusa Core One (without supports) and there was an interesting effect of the side of the case next to the antenna hole actually moving during printing. It might be interesting to try the print with supports and also a brim to prevent the print from moving. I belive the upward bent was caused by the case moving even in the case (sic!) of MK4S where the base plate moves rather than in the case of Prusa Core One where only the head moves in the x/y axes.
+When printing on MK4S, some of the corners of the middle of the case were a bit (like 1 mm) lifted as if distorted/bent by an upward force. So there was a tiny gap between the bottom lid and the middle part of the case. This happened twice on MK4S. When printing with supports in the USB and antenna holes the case seems to be straight. I also tried printing on Prusa Core One (without supports) and there was an interesting effect of the side of the case next to the antenna hole actually moving during printing. It might be interesting to try the print with supports and also a brim to prevent the print from moving. I belive the upward bent was caused by the case moving even in the case (sic!) of MK4S where the base plate moves rather than in the case of Prusa Core One where only the head moves in the x/y axes. Another idea that might be worth experimenting with is the position of the seam (try it in the middle perhaps rather than in the corner).
 
 So, supports seem to be handly also for fixing the print horizontally, not only vertically.
