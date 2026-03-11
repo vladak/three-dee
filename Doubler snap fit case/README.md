@@ -12,13 +12,15 @@ This is meant for both sender (with 2000mAh battery) as well as the
 
 ## Print parameters
 
-The printing should be done using the same parameters as the QtPy case:
+The printing should be done using similar parameters as the QtPy case:
   - PLA filament 220C extruder
   - 0.2 layer height
   - grid pattern infill
   - 60mm/s print speed
   - 60C heated bed
   - use supports + brim (for the middle part of the case)
+
+In my case the parameter set was called "0.2 structural".
 
 Took me 4 iterations of prints to get the dimensions/tolerances right.
 
