@@ -26,7 +26,7 @@ The printing should be done using similar parameters as the QtPy case:
 
 In my case the parameter set was called "0.2 STRUCTURAL".
 
-Took me some 4 iterations of prints to get the dimensions/tolerances/printing right.
+Took me some 5 iterations of prints to get the dimensions/tolerances/printing right.
 
 Printed on Prusa MK4S, slicing done in PrusaSlicer.
 
