@@ -6,4 +6,5 @@ This is meant to go underneath the table top to fasten bunch of cables leading a
 
 This is how it looks like in real life:
 
-XXX
+<img src="photo.jpg">
+
