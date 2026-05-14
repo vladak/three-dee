@@ -5,7 +5,7 @@ Fits 3 x 25 screws.
 
 <img src="fastener-fusion_screenshot.png">
 
-This is how it looks like in real life:
+This is how it looks like in real life (yes, I like matching colors):
 
 <img src="photo.jpg">
 
