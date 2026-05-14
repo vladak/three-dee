@@ -9,9 +9,10 @@ and use double sided sticky tape to attach the power convertor. Both the power c
 
 There were two cylinders with screws left after the original power supply so I figured these can be used
 to hold the LED strip. Designed the fastener in Fusion in couple of minutes, sent it to the friendly
-printer in the neighborhood and this is the result. The wires are scraps after an electrician that came
+printer in the neighborhood. The wires are scraps after an electrician that came
 for a different project, so very ecological project in the end ;-)
 
+<img src="img/fusion-screenshot.png" width=800>
 <img src="img/IMG_20260514_151403.jpg" width=400>
 <img src="img/IMG_20260514_150538.jpg" width=400>
 <img src="img/IMG_20260514_150548.jpg" width=400>
