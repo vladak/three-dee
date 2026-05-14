@@ -8,7 +8,8 @@ and use double sided sticky tape to attach the power convertor. Both the power c
 (actually 2 strips attached back to back) are water resistant.
 
 There were two cylinders with screws left after the original power supply so I figured these can be used
-to hold the LED strip. Designed the fastener in Fusion in couple of minutes, sent it to the friendly
+to hold the LED strip. The cylinders are widening a bit near the base, so applied a fillet and it fit perfectly.
+Designed the fastener in Fusion in couple of minutes, sent it to the friendly
 printer in the neighborhood. The wires are scraps after an electrician that came
 for a different project, so very ecological project in the end ;-)
 
