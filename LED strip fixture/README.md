@@ -20,7 +20,7 @@ for a different project, so very ecological project in the end ;-)
 <img src="img/IMG_20260514_150912.jpg" width=400>
 <img src="img/IMG_20260514_151004.jpg" width=400>
 
-This is the final result:
+This is the final result (before closing the lid):
 
 <img src="img/IMG_20260514_150930.jpg" width=600>
 
